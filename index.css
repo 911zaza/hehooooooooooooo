@@ -1,0 +1,297 @@
+.section1{
+    background: linear-gradient(216.04deg, #27C0EF 13.84%, #00A8DB 83.53%);
+    
+}
+body{
+    margin: 0;
+}
+.header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 30rem;
+}
+.rightheader{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.navigation{
+    display: flex;
+    color:#FFFFFF;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:8px ;
+    gap: 20px; 
+    
+}
+.rightmenu button{
+    background-color: #337cb1 ;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    width: 140%;
+}
+.rightmenu button:hover{
+    cursor: pointer;
+    transition: 0.5s ease-in-out;
+    background-color: #00A8DB;
+}
+
+.bodyy{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+}
+.bodyyleft img{
+    width: 40%;
+
+}
+.bodyyleft{
+    margin-left: 20rem;
+    
+}
+.finbodyy{
+    display: flex;
+    gap: 30px;
+   
+}
+.btn1{
+    display: flex;
+    background-color: inherit;
+    align-items: center;
+}
+.btn1 img{
+    width: 20%;
+    height: 15%;
+}
+.btn1 p{
+    color:white;
+}
+.finbodyy button{
+    border: none;
+    border-radius: 10px;
+    padding: 10px 50px;
+    color: #27C0EF;
+
+}
+.finbodyy button:hover{
+   cursor: pointer;
+   background-color: #337cb1;
+   color: #FFFFFF;
+   transition: 0.5s ease-in-out;
+
+}
+.bodyyright img{
+  margin-bottom: 0;
+}
+.part1{
+   display: flex;
+   justify-content: space-evenly;
+   padding-top: 50px;
+
+}
+.part2{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-top:50px ;
+}
+.part2right h1{
+    color:  #034D82;
+    
+}
+.part2right p{
+    color: #90A3B4;
+    
+}
+
+.part2right button{
+    color:#04AADD;
+    background-color: inherit;
+    border: none;
+}
+ .btn2{
+    display: flex;
+    align-items: center;
+ }
+ .part3{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-top:50px ;
+}
+.part3left h1{
+    color:  #034D82;
+
+}
+.part3left p{
+    color: #90A3B4;
+
+}
+.title{
+    color: #90A3B4;
+
+}
+.btn2 button{
+    color:#04AADD;
+    background-color: inherit;
+    border: none;
+}
+
+.btn2 button:hover{
+    color:#ffffff;
+    background-color: #424141;
+    border: none;
+    transition: 0.5s ease-in-out;
+    cursor: pointer;
+}
+.finpart2right button:hover{
+    color:#ffffff;
+    background-color: #424141;
+    border: none;
+    transition: 0.5s ease-in-out;
+    cursor: pointer;
+}
+.list{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.imgg{
+    display: flex;
+    flex-direction: column;
+    gap:30px
+} 
+
+.section4{
+    background-color: #EFFBFF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 3rem;
+    gap: 20px;
+}
+.finsection4{
+    display: flex;
+    gap: 10rem;
+}
+.ractangle{
+    background-color: white;
+    padding: 2rem;
+    border-radius: 10px;
+}
+.ractangle h2{
+    color: #034D82;
+
+}
+.ractangle p{
+    color: #8EA9C1;
+
+}
+.section4 h1{
+    color: #034D82;
+
+}
+.section4 p{
+    color: #8EA9C1;
+
+
+}
+.part1left h1{
+    color: #034D82;
+    
+}
+.part1left p{
+   color: #8EA9C1;;
+}
+.part1right{
+    display: flex;
+    gap:10px;
+}
+.img5 p{
+    color: #8EA9C1;
+}
+.jaquon{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.part1{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 20%;
+    padding: 7% 0 5% 0 ;
+}
+.finpart2{
+    background-color: #12C3E3;
+    width: 70%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+    border-radius: 5px;
+}
+.emoji{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  
+    
+}
+.emoji img{
+    width: 15%;
+    height: 15%;
+}
+.finpart2right button{
+    background-color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color:#12C3E3; 
+}
+.finpart2right button:hover{
+    color:#ffffff;
+    background-color: #12C3E3; 
+    border: none;
+    transition: 0.5s ease-in-out;
+    cursor: pointer;
+   
+}
+.section6fin{
+    background-color: #081315;
+    color: white;
+   margin-top: 200px;
+  
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+.part1{
+    display: flex;
+    padding-right: 30rem;
+   align-items: center;
+}
+.imgs{
+    display: flex;
+    gap: 10px;
+  
+}
+.last{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.part1{
+    display: flex;
+    justify-content: center;
+  margin-left: 25rem;
+   
+}
+
+
+
+
+
+
+
